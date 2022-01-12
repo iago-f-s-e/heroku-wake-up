@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "",
   "main": "src/main.ts",
+  "repository": "https://github.com/iago-f-s-e/heroku-wake-up.git",
   "author": "iago fagundes <iago.fagundes@outlook.com>",
   "license": "MIT",
   "scripts": {
