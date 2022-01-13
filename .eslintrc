@@ -51,7 +51,6 @@
       "varsIgnorePattern": "^_",
       "argsIgnorePattern": "^_"
     }],
-    "@typescript-eslint/explicit-module-boundary-types": "error",
     "@typescript-eslint/adjacent-overload-signatures": "error",
     "@typescript-eslint/explicit-member-accessibility": ["error", {
       "accessibility": "explicit",
